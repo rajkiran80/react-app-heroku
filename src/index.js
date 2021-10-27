@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+
 
 const map = new Map();
 const filterPriceList=[{start:100,end:200},{start:201,end:350},{start:351,end:450},{start:451,end:500}]
