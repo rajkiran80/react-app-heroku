@@ -1,6 +1,7 @@
 import React from 'react';
 import React,{useState} from 'react';
 import ReactDOM, { render } from 'react-dom';
+import products from './products';
 import './index.css';
 
 
